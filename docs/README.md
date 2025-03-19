@@ -43,7 +43,7 @@ Három modell arra szolgál, hogy szokjuk a fogalmakat és lássuk a fent bizony
    * Megtakarítás-modell
 
 1. A Bellman-egyenlet megoldása mint fixpont
-   * Korlátos hozam függvény és beta<1 mellett
+   * Korlátos hozam függvény és $$\beta<1$$ mellett
    * Blackwell-lemma
    * Bellman-operátor
    * Bellman-operátor monotonitása és konkavitása
