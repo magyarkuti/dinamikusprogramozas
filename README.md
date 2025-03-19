@@ -1,0 +1,2 @@
+# dinamikusprogramozas
+Kurzus weblap
