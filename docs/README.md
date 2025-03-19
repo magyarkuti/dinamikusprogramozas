@@ -25,7 +25,7 @@ Szóbeli vizsga a szemeszter végén
 1. Szuprémum probléma és a Bellman-egyenlet 
    * Állapot tér, hozadék függvény, rákövetkező függvény, diszkont tényező
    * Megengedett út, vagy terv; út hasznossága
-   * Alapfeltevések, speciálisan korlátos hozadék függvény, és <math>0\leq \beta<1</math> esetben
+   * Alapfeltevések, speciálisan korlátos hozadék függvény, és $$0\leq \beta<1$$ esetben
    * Szupremum feladat (SP) formalizációja
    * Érték függvény és optimális út
    * Bellman-egyenlet
@@ -34,7 +34,7 @@ Szóbeli vizsga a szemeszter végén
    * (SP) értékfüggvénye egyben a Bellman-egyenlet megoldása
    * A Bellman-egyenlet megoldása egyben (SP) értékfüggvénye
    * Policy leképezés, Optimal policy leképezés
-   * Korlátos pillanatnyi hasznosság függvény és <math>\beta<1</math> diszkont tényező mellett, egy pálya pontosan akkor optimális, ha azt az op-leképezés generálja
+   * Korlátos pillanatnyi hasznosság függvény és $$\beta<1$$ diszkont tényező mellett, egy pálya pontosan akkor optimális, ha azt az op-leképezés generálja
 
 1. Az (SP) feladat és a Bellmann-egyenlet illusztrációja 
 Három modell arra szolgál, hogy szokjuk a fogalmakat és lássuk a fent bizonyított állítások mellékfeltételeinek p(f)ontosságát:
