@@ -8,7 +8,7 @@ Az órák:
    * csütörtök: 08:00-9.30 a C101 teremben
 
 ## Jegyzetek
-Az előadások anyaga: [Mértékelmélet és Dinamikus Programozás (v1.5-28)](http://www.bke.hu/magyarkuti/main.pdf)
+Az előadások anyaga: [Mértékelmélet és Dinamikus Programozás (v1.5-28)](http://www.bke.hu/magyarkuti/main.pdf).
 Itt javítom a megjelenés óta talált hibákat elírásokat, ezért ajánlom a fenti jegyzet letöltését.
 Kötelességem feltüntetni a kiadói jogok tulajdonosát az eredeti változat megjelölésével: 
 [Mértékelmélet és Dinamikus Programozás, TypoTeX 2014](https://dtk.tankonyvtar.hu/xmlui/handle/123456789/3221).
@@ -139,4 +139,4 @@ Három modell arra szolgál, hogy szokjuk a fogalmakat és lássuk a fent bizony
    * Bellman-egyenlet egyetlen megoldásának folytonossága
    * Bellman-egyenlet egyetlen megoldásának monotonitása és folytonossága
    * Bellman-egyenlet egyetlen megoldásának szigorú konkavitása
-  * Az optimális policy függvény folytonossága és egyértékűsége
+   * Az optimális policy függvény folytonossága és egyértékűsége
